@@ -20,3 +20,9 @@ Additionally, the repository contains the following files:
     - A
     - B
 - `01_BitcoinAnalysis.ipnb`: 
+
+## Interesting links to get data from
+
+- [https://1ml.com/statistics?json=true](https://1ml.com/statistics?json=true)
+- [www.cryptodatadownload.com](https://www.cryptodatadownload.com/data/bitstamp/)
+- [https://trends.google.com/trends/](https://trends.google.com/trends/)
