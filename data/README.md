@@ -5,6 +5,8 @@ Minute data was originally downloaded from [www.cryptodatadownload.com](https://
 ```bash
 # First line needs to be removed; after that, the CSV files have the following header:
 # unix,date,symbol,open,high,low,close,Volume BTC,Volume USD
+curl https://www.cryptodatadownload.com/cdd/gemini_BTCUSD_2016_1min.csv > 
+data/Gemini_BTCUSD_2016_minute.csv
 curl https://www.cryptodatadownload.com/cdd/Bitstamp_BTCUSD_2017_minute.csv > data/Bitstamp_BTCUSD_2017_minute.csv
 curl https://www.cryptodatadownload.com/cdd/Bitstamp_BTCUSD_2018_minute.csv > data/Bitstamp_BTCUSD_2018_minute.csv
 curl https://www.cryptodatadownload.com/cdd/Bitstamp_BTCUSD_2019_minute.csv > data/Bitstamp_BTCUSD_2019_minute.csv
