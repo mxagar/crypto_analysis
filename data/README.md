@@ -39,3 +39,9 @@ Make sure that:
 - The datapoint frequency (e.g., every day) is correct for your selected period
 
 For daily data, the periods I needed to take each year were: 20XX-01-01 - 20XX-08-31 and 20XX-08-31 - 20XY-01-01 (Y=X+1); note that the first and final dates need to overlap so that a bigger dataset is created by concatenating the files and scaling the interest values accordingly.
+
+## Market cap data
+
+I used two sources:
+- Statista: Global cryptocurrency marketcap
+- Coinmarketcap.com parsing
