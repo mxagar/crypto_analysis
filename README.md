@@ -1,6 +1,8 @@
 # Crytocurrency Analysis
 
-This respository contains the analysis of price and network data related to Bitcoin and other cryptocurrencies. I made the repository just for fun; no investment purposes followed here.
+This respository contains the analysis of price and network data related to Bitcoin and other cryptocurrencies. I made the repository just for fun; no investment purposes nor advice intended here.
+
+This project is on-going, not finished.
 
 ## How to use the repository
 

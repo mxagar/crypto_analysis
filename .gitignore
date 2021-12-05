@@ -1,4 +1,7 @@
 data/*.csv
+data/*.xlsx
+cmc_key.txt
+quandl_key.txt
 .vscode
 .DS_Store
 .ipynb_checkpoints
