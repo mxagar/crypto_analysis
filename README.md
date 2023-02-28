@@ -10,7 +10,7 @@ First, install an environment manager, e.g., [conda](https://docs.conda.io/en/la
 
 ```bash
 # Create your env
-conda create --name crypto pip python=3.6
+conda create --name crypto pip python=3.8
 conda activate crypto
 
 # Install all necessary packages
