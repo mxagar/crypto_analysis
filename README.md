@@ -18,7 +18,9 @@ conda activate crypto
 pip install -r requirements.txt
 ```
 
-## Contents
+Then, open the [notebooks](#notebooks), sequentially.
+
+## Notebooks
 
 The folder `data/` contains all the raw data used for the analysis. These data is not uploaded to the repository; you need to contact me if you would like access to it.
 
